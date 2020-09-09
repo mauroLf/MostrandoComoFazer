@@ -1,0 +1,30 @@
+#topo
+{
+  background-color: red;
+  width: 100%;
+  min-height: 50px;
+
+}
+
+#conteudo
+{
+  background-color: blue;
+  width: 100%;
+  min-height: 400px;
+
+}
+
+#rodape
+{
+  background-color: yellow;
+  width: 100%;
+  min-height: 50px;
+
+}
+*
+  
+  min-width: 10px;
+  width: 100%;
+  min-height: 50px;
+  height: 50px;
+*/
